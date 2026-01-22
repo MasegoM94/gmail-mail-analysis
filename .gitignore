@@ -8,3 +8,5 @@ Password_folders/email_list.json
 *.log
 __pycache__/
 *.pyc
+
+.DS_Store
